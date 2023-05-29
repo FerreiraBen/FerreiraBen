@@ -28,11 +28,15 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
 
 <h3 align="center">Languages</h3>
 <p align="center">
+<a href="https://www.bash.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white"
+      alt="c"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-e76d00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
       alt="java"/> 
   </a>
