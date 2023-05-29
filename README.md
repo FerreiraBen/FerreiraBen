@@ -41,7 +41,7 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
       alt="javascript"/> 
   </a>
   <a href="https://www.python.org" target="_blank"> 
-    <img src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/> 
   </a>
   <!-- <a href="https://www.w3schools.com/css/" target="_blank">
@@ -273,4 +273,9 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
 <p align="center">
   <img  src="resources/github-user-contribution.svg"
     alt="example" />
-Last Edited on: 05/29/2023
+</p>
+<br>
+
+<p align="left">
+  Last Edited on: 05/29/2023
+</p>
