@@ -88,27 +88,27 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  </a>
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
   </a>
   <!-- <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a> -->
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
   </a>
   <!-- <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
@@ -116,8 +116,44 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
   </a>  -->
 </p>
 
+<h3 align="center">ML/DL</h3>
+<p align="center">
+  <a href="https://mlflow.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/mlflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white"
+      alt="mlflow"/>
+  </a>
+  <a href="https://numpy.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+      alt="numpy"/>
+  </a>
+  <a href="https://www.pandas.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+      alt="pandas"/> 
+  </a> 
+  <a href="https://pytorch.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"
+      alt="pytorch"/>
+  </a>
+  <a href="https://sympy.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/sympy-3B5526.svg?style=for-the-badge&logo=sympy&logoColor=white"
+      alt="sympy"/>
+  </a>
+  <a href="https://tensorflow.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"
+      alt="tensorflow"/>
+  </a>
+
+</p>
+
+
+
+
 <h3 align="center">Database</h3>
 <p align="center">
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
@@ -130,10 +166,7 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
+  
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -144,27 +177,31 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify"/>
-  </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
   </a> 
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify"/>
+  </a>
 </p>
 
 <h3 align="center">Testing</h3>
 <p align="center"> 
+  <a href="https://junit.org/junit5/" target="_blank"> 
+    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
+  </a>
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -176,10 +213,6 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
@@ -187,14 +220,14 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
   <a href="https://arduino.org" target="_blank">
     <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
@@ -202,12 +235,12 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
 
@@ -220,6 +253,9 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
     <a  href="https://discord.gg/3k4gtwnX" target="_blank">
       <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
     </a>
+    <a  href="https://www.linkedin.com/in/josiascavalcante/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
     <!-- <a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a> -->
@@ -227,17 +263,7 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
     </a> -->
   </div>
-  <div>
-    <a  href="https://www.linkedin.com/in/josiascavalcante/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <!-- <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a> -->
-    <!-- <a href="https://dribbble.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
-    </a> -->
-  </div>
+
   <div>
     <a  href="https://www.codechef.com/users/example" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
