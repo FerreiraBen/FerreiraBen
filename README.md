@@ -269,13 +269,13 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
   </div>
 
   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
+    <a  href="https://www.codechef.com/users/" target="_blank">
       <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
     </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
+    <a href="https://www.hackerrank.com/" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
+    <a href="https://leetcode.com/CUBEv1/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   </div>
