@@ -1,7 +1,6 @@
 # FerreiraBen
 
 [![GitHub followers](https://img.shields.io/github/followers/FerreiraBen?style=social)](https://github.com/FerreiraBen)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FerreiraBen?style=social)](https://twitter.com/FerreiraBen)
 
 ## Sobre mim
 
