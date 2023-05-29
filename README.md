@@ -217,9 +217,9 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
 
 <div style="margin-top:10px" align="center">
   <div>
-    <!-- <a  href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a> -->
+    <a  href="https://discord.gg/3k4gtwnX" target="_blank">
+      <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
+    </a>
     <!-- <a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a> -->
