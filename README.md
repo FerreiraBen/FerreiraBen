@@ -8,7 +8,7 @@
 <p>
 I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (UFAM), postgraduate in Data Science, Project Management, Information Security, and State Intelligence (specializing in OSINT/TECHINT). I have experience in Artificial Intelligence, Deep Learning projects, and applications in the healthcare sector. Currently, I work as a Junior Software Analyst, focusing on data analysis and software validation for security purposes.</p>
 
-- 🌱 I’m currently learning **probably something unusual like Civil Aviation and Engine-propeller Mechanics, Russian language, and Embedded Systems.** 
+- 🌱 I’m currently learning **probably something unusual like Civil Aviation and Engine-propeller Mechanics, Russian language, and Crochet.** 
 
 <!-- - 👯 I’m looking to collaborate on **Spring Framework**
 
