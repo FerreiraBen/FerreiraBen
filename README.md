@@ -14,7 +14,7 @@ I'm a brazilian Computer Engineer graduate from Federal University of Amazonas (
 
 - 🤝 I’m looking for help with **Backend Design** -->
 
-- 👨‍💻 All of my public projects are available [@FerreiraBen](github.com/FerreiraBen)
+- 👨‍💻 All of my public projects are available [@FerreiraBen](https://github.com/FerreiraBen)
 
 - 💬 Ask me about **Connectionist Artificial Intelligence and Project Management 😆**
 
