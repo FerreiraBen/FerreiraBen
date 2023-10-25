@@ -26,9 +26,10 @@ jobs:
       # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Install canvas
-        run: npm install canvas
-
+        
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.0.0
+      
       - name: Generate snake graphics
         uses: Platane/snk/svg-only@v3
         with:
