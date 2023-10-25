@@ -26,6 +26,8 @@ jobs:
       # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v2
+      - name: Install canvas
+        run: npm install canvas
 
       - name: Generate snake graphics
         uses: Platane/snk/svg-only@v3
