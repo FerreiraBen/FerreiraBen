@@ -35,4 +35,4 @@ jobs:
           name: snake-graphics
           path: dist/
       - name: Extract SVG files
-        run: unzip -qo snake-graphics -d extracted-svgs
+        run: unzip -qo $GITHUB_WORKSPACE/_work/_actions/Platane/snk/v3/snake-graphics.zip -d extracted-svgs
