@@ -27,11 +27,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.0.0
-      
+      - name: Install canvas
+        run: npm install canvas
+
       - name: Generate snake graphics
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           # GitHub user name to read the contribution graph from (required)
           github_user_name: ${{ github.repository_owner }}
