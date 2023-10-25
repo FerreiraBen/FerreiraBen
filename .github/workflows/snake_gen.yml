@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate snake graphics
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           # GitHub user name to read the contribution graph from (required)
           github_user_name: ${{ github.repository_owner }}
